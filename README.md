@@ -1,2 +1,3 @@
 # programme-C
-Réalisation de plusieurs algorithme en un programme général en langage C. Projet realiser en binome.
+mon premier projet d'algo.
+Réalisation de plusieurs algorithme en un programme général en langage C. réaliser en binome dans le cadre de la validation du TP du module algo.
